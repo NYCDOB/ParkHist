@@ -2,7 +2,7 @@
 css html,
 body {
   background-color: gainsboro;
-  background-image: url("../images/genericgarage.jpg");
+  background-image: url("https://raw.githubusercontent.com/nycdob/ParkHist/main/images/genericgarage.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   overflow-y: hidden;
